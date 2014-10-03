@@ -7,11 +7,15 @@
 - Stable tag: 1.0.3
 - License: GPLv2 or later
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
 ##Modified##
 汉化说明：
 本插件是评论邮件提醒插件，不需要设置，回复邮件样式已经进行修改，依据GPL v2 开源协议发布。
 
 如有版权纠纷请联系本人：[http://blog.tinycq.com/about](http://blog.tinycq.com/about "tinycq") 
+
+使用方式，点击右边的 Download zip 将下载下来的zip文件上传到wordpress的安装插件处启用即可。
 
 Thanks!
 
